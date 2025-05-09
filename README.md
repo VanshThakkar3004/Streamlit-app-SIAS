@@ -1,2 +1,2 @@
 # Streamlit-app-SIAS
-Satellite Analysis using Python and Streamlit app
+Satellite Analysis Web App using Python and Streamlit app
