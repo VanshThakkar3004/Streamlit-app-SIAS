@@ -14,8 +14,8 @@ $ requirements.txt
 $ packages.txt
 
 
-$ streamlit run satellite_analysis_app.py
+Main Command to Run ----$ streamlit run satellite_analysis_app.py 
 
 
 
-**🌍Main App link: https://satellite-app-analysis-sias.streamlit.app**
+**🌍Main App link: https://satellite-app-analysis-sias.streamlit.app🌍**
