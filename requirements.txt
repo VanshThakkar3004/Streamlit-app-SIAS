@@ -1,0 +1,9 @@
+streamlit
+numpy
+pillow
+folium
+streamlit-folium
+torch
+torchvision
+fpdf
+opencv-python-headless
