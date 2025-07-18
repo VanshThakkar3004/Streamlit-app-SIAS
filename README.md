@@ -15,3 +15,7 @@ $ packages.txt
 
 
 $ streamlit run satellite_analysis_app.py
+
+
+
+**🌍Main App link: https://satellite-app-analysis-sias.streamlit.app**
